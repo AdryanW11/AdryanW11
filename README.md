@@ -1,6 +1,6 @@
-<h1 align="center">👋 Olá! Eu sou o Adryan Carvalho</h1>
+<h1 align="center">👋 Olá! Sou Adryan Carvalho</h1>
 
-Sou **Desenvolvedor Front-End**, apaixonado por criar interfaces modernas e responsivas.  
+**Desenvolvedor Front-End**, apaixonado por criar interfaces modernas e responsivas.  
 Atualmente, estou aprimorando minhas habilidades em **HTML, CSS e JavaScript**.
 
 ---

@@ -1,12 +1,17 @@
-<h1><center>Hi there 👋</center></h1>
+<h1 align="center">👋 Olá! Eu sou o Adryan Carvalho</h1>
 
-- 👋 Hi, I’m Adryan, I'm 19 years old, and I'm from Brazil
-  
-- 👀 I’m interested in data analysis, fullstack development, and tech innovations.
-  
-- 🌱 I’m currently learning JavaScript and Python
-  
-- ⚡ In my free time, I work as a freelancer.
+Sou **Desenvolvedor Front-End**, apaixonado por criar interfaces modernas e responsivas.  
+Atualmente, estou aprimorando minhas habilidades em **HTML, CSS e JavaScript**.
+
+---
+
+## Sobre mim
+- 💻 Atuo no desenvolvimento **Front-End**
+- 📚 Sempre aprendendo e evoluindo na área de tecnologia
+- 🌎 Aberto a novas oportunidades e conexões
+
+---
+
 
 
 <!---
